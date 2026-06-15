@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unit Conversion API
 
 A production-ready **ASP.NET Core 8** RESTful Web API for converting numerical values between different units of measurement.
@@ -235,3 +236,6 @@ To scale to hundreds of unit types:
 - Add new entries to `UnitDefinitions.cs` (or replace with a DB-backed `IUnitRegistryService`)
 - Add a new `case` in the `UnitConversionService` switch for any category with non-linear formulas
 - No controller changes required
+=======
+# UnitConversionApi
+>>>>>>> 6c91a0f654eb4bdade903a4930c793548a7fd17b
